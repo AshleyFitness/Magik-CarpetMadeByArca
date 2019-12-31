@@ -1,0 +1,13 @@
+Yo
+not too much to say
+just dont forget to include
+winmm.lib in visual studio
+
+properties->Linking->input->Additional Dependencies->winmm.lib
+
+And now your ready babe enjoy :) 
+
+DONT FORGET TO FOLLOW ME ON TWITTER -> @arcadeur
+(please)
+
+[!] the project use The Windows Api
